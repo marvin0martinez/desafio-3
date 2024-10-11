@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Desafio3 DSM441</string>
+
+    <string name="descripcion">Descripción del Recurso</string>
+    <string name="tipo">Tipo de Recurso</string>
+    <string name="enlace">Enlace al Recurso</string>
+</resources>
